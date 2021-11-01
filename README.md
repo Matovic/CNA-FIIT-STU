@@ -1,4 +1,6 @@
-# Cisco Networking Academy at Faculty of Informatics and Information Technologies Slovak university of technology in Bratislava
+# Cisco Networking Academy FIIT STU
+
+Visit [the website](https://netacad.fiit.stuba.sk/) for more info.
 
 ## Authors
  - [Erik Matovič](https://github.com/Matovic)
